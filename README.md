@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NatnaelBG
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning blockchain development and backend development
+- 👀 I’m a programmer
+- 🌱 I’m currently working on blockchain and backend development
 - 💞️ I’m looking to collaborate on web3 projects
 - 📫 How to reach me - natnaelber7@gmail.com
 
